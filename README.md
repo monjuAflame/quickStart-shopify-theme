@@ -10,10 +10,9 @@ Quick Start shopify Theme. Based on Laravel-mix and ThemeKit.
 
 ## How to Use:
 
-# Clone the repo git clone https://github.com/monjuAflame/quickStart-shopify-theme.git
-
-# Run npm install to install all dependencies
-# Add your config information in the config.yml file.
+1. Clone the repo git clone https://github.com/monjuAflame/quickStart-shopify-theme.git
+2. Run npm install to install all dependencies
+3. Add your config information in the config.yml file.
 
 Development happiely.
 
